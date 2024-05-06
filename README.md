@@ -1,4 +1,4 @@
-\# MongoDB - bu hujjatlar bilan ishlashga yo\'naltirilgan ma\'lumotlar
+MongoDB - bu hujjatlar bilan ishlashga yo\'naltirilgan ma\'lumotlar
 bazasini boshqarish tizimi, ya\'ni bizda jadvallar bo\'lishi shart emas.
 MongoDB NoSQL malumotlar bazasi turiga kiradi, u JSONga o\'xshash
 hujjatlar va ma\'lumotlar bazasi sxemasidan foydalanadi, bu shuni
@@ -6,8 +6,9 @@ anglatadiki biz MongoDB da ishlash uchun SQL so\'rovlarini bilishimiz
 shart emas. MongoDB C++ tilida yozilgan. MongoDB da Odatiy SQL dagi
 jadvallar yo\'q, aksincha unda kolleksiyalar bor. Kolleksiyalar, SQL
 dagi jadvallarning analogi hisoblanadi, lekin ular jadvallarga o\'xshab
-aniq bir strukturaga ega emas. \-\-\-\-\-\-\-\-\-\-\-\-\-- \## MongoDB
-Ierararxiyasi
+aniq bir strukturaga ega emas. \-\-\-\-\-\-\-\-\-\-\-\-\-- \
+
+MongoDB Ierararxiyasi
 
 1\. Klaster(Cluster). Bu MongoDB ierarxiyasining eng yuqori darajasi.
 Klaster ma\'lumotlarni saqlash va qayta ishlash uchun birgalikda
